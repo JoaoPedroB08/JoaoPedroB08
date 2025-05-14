@@ -1,6 +1,10 @@
-<h2 align ="center">🐧👍 Olá, Aqui é o GitHub do seu mano João Pedro B.S👋</h2>
+<h2 align ="center">🐧👍Github de Kakaribuu✍🐧</h2>
 
-<h4 align ="center"> Sou apenas um pequeno programador aprendiz, com o sonho de chegar a algum lugar. </h4>
+<img src="src/BannerGit.png" alt="Banner JP" width="100%" />
+
+---
+
+## Status do Github
 
 <div align="center">
     <a href="https://github.com/JoaoPedroB08">
@@ -9,7 +13,7 @@
     </a>
 </div>
 
-<img align="right" alt="foto" height="80" width="80" src="https://pbs.twimg.com/media/F3B1WDMXQAAttuB.jpg"><img/>
+<img align="right" alt="foto" height="75" width="75" src="https://pbs.twimg.com/media/F3B1WDMXQAAttuB.jpg"><img/>
 
 ## Tecnologias Dominadas
 
