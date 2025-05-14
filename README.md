@@ -15,3 +15,7 @@
 <img align ="center" alt="joao-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
 </div>
 
+<img align ="right" alt="joao-js" height="110" width="110" src="https://pbs.twimg.com/media/F3B1WDMXQAAttuB.jpg">
+
+##
+
