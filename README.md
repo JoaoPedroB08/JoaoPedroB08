@@ -4,6 +4,10 @@
 
 ---
 
+### About Me
+
+<h4>My name is João Pedro Brocca dos Santos, also known as Kakaribuu. I'm currently studying Technical Development in Systems and planning to work in this field. However, I’m not giving up on my dreams as a designer — I always use my free time to keep improving and expanding my creative skills.</h4>
+
 ## Github Status
 
 <div align="center">
@@ -61,6 +65,13 @@
 - 🖱 Digital Artist
 - 📢 Communication
 - 👑 Leadership
+
+### Courses
+
+- Technical course in Systems Development (SENAI – ongoing)
+- Short course in Python programming (SENAI – completed)
+- Short course in JavaScript programming (SENAI – completed)
+- Visual arts course (Aprenda – completed)
 
 ### Frase motivacional
 
