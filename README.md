@@ -29,6 +29,9 @@
 ### IDEs e Ambientes
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+### Ferramentas e Design
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TikerCad](https://img.shields.io/badge/tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white)
+
 ## Contatos
 
 ### Social Media
@@ -46,3 +49,9 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JoaoPedroB08}/count.svg" /></p> 
 <br>
 </div>
+
+## Extras
+
+### Frase motivacional
+
+>"Aprender uma lição sem dor, não tem significado, isso porque as pessoas não conseguem aprender nada, sem sacrificar alguma coisa, mas quando elas superam as dificuldades e conseguem o que querem, elas conquistam um coração forte, que não perde para nada... Isso, um coração forte como aço!"
