@@ -28,3 +28,17 @@
 
 ### IDEs e Ambientes
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+## Contatos
+
+### Social Media
+[![Instagram](https://img.shields.io/badge/-Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpbrocca_)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-e1306c?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/joão-pedro-brocca-dos-santos-b58450296)
+
+---
+
+<div align="center">
+<br><p align="center"><b>👀 Visitor's Count 👀</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JoaoPedroB08}/count.svg" /></p> 
+<br>
+</div>
