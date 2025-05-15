@@ -64,4 +64,4 @@
 
 ### Frase motivacional
 
->"Aprender uma lição sem dor, não tem significado. Isso porque as pessoas não conseguem aprender nada, sem sacrificar alguma coisa, mas quando elas superam as dificuldades e conseguem o que querem, elas conquistam um coração forte, que não perde para nada... É, um coração forte como aço!" - Elric, Edward. 2010.
+>"Aprender uma lição sem dor, não tem significado. Isso porque as pessoas não conseguem obter nada sem sacrificar alguma coisa, mas quando elas superam as dificuldades e conseguem o que querem, as pessoas conquistam um coração forte, que não perde para nada... É, um coração forte como aço!" - Elric, Edward. 2010.
