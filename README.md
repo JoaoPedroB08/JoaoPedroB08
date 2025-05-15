@@ -13,7 +13,7 @@
     </a>
 </div>
 
-<img align="right" alt="foto" height="75" width="75" src="https://pbs.twimg.com/media/F3B1WDMXQAAttuB.jpg"><img/>
+<img align="right" alt="foto" height="65" width="65" src="https://pbs.twimg.com/media/F3B1WDMXQAAttuB.jpg"><img/>
 
 ## Tecnologias Dominadas
 
