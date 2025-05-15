@@ -37,6 +37,10 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/JoaoPedroB08/JoaoPedroB08/output/snake.svg" alt="Snake animation" />
+
+---
+
 <div align="center">
 <br><p align="center"><b>👀 Visitor's Count 👀</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JoaoPedroB08}/count.svg" /></p> 
